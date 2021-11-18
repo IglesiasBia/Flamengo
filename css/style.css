@@ -1,0 +1,42 @@
+.loja{
+    background-color: black;
+    color: white;
+}
+
+
+h1{
+    text-align: center;
+    padding: 1em;
+}
+
+.nav{
+    position: fixed;
+    margin-top: 0px;
+    width: 100%;
+    z-index: 1000;
+    background-color: white;
+}
+
+.card{
+    text-align: center;
+    margin-left: 100px;
+    background-color: black;
+}
+
+.preco{
+    border: none;
+    background-color: black;
+    margin: 0px;
+}
+
+.preco h5{
+    background-color: red;
+}
+
+
+footer{
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+
